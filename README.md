@@ -1,10 +1,10 @@
 # Amazon Product Recommendation System
 
 
-## MIT Applied Data Science & Machine Learning Certification
-### Techniques used: Rank-Based Filtering, User-User Collaborative Filtering, Item-Item Collaborative Filtering, SVD Matrix Factorization
-### Libraries: pandas, numpy, scikit-learn, scikit-surprise, matplotlib, seaborn
-### Dataset: 4.2M Amazon electronics ratings → filtered to 11,315 high-quality interactions
+MIT Applied Data Science & Machine Learning Certification
+Techniques used: Rank-Based Filtering, User-User Collaborative Filtering, Item-Item Collaborative Filtering, SVD Matrix Factorization
+Libraries: pandas, numpy, scikit-learn, scikit-surprise, matplotlib, seaborn
+Dataset: 4.2M Amazon electronics ratings → filtered to 11,315 high-quality interactions
 
 ## 1. Business Context & Objective
 Today, information is growing exponentially across the globe, leading to information overload and too many choices for consumers. Recommender systems are one of the best tools that help guide users to relevant products while browsing online.
